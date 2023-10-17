@@ -773,6 +773,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.4"
+  shimmer:
+    dependency: transitive
+    description:
+      name: shimmer
+      sha256: "5f88c883a22e9f9f299e5ba0e4f7e6054857224976a5d9f839d4ebdc94a14ac9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -1078,10 +1086,10 @@ packages:
     dependency: "direct main"
     description:
       name: web3modal_flutter
-      sha256: "854905fae9848df828416527e063654afc13f006f0defc8e1b407f76b711a3f1"
+      sha256: "743bdc6e984dfed80203196cf110529954028b44a92e48cdf53022258a037585"
       url: "https://pub.dev"
     source: hosted
-    version: "3.0.0-alpha05"
+    version: "3.0.0-beta03"
   web_socket_channel:
     dependency: transitive
     description:
